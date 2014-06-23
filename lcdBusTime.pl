@@ -224,7 +224,7 @@ while(1) {
         }
     }
 
-    # Blink the server
+    # Blink the cursor
     if ($cursor eq '.') {
         $cursor = ' ';
     } elsif ($cursor eq ' ') {
