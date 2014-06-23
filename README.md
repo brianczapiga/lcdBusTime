@@ -7,6 +7,8 @@ This will drive a Matrix Orbital style display configured for 16 columns x 2 lin
 
 This was specifically designed to work with the USB Serial LCD Display from AdaFruit.
 
+https://www.adafruit.com/products/784
+
 # General
 I have not cleaned the code, and I expect that there are optimizations that can
 be made in a bunch of places.
